@@ -1,6 +1,6 @@
 # This PJT is WIP
 
-`gog` is useful and powerful git client.
+`gog` is useful and powerful git GUI client.
 
 ## Commands
 
@@ -10,6 +10,7 @@
 |`commit`|Equivalent to `git commit`|
 |`status`|Equivalent to `git status`|
 |`log`|Equivalent to `git log`|
+|`diff`|Equivalent to `git diff`|
 |`push`|Equivalent to `git push`|
 |`pull`|Equivalent to `git pull`|
 |`fetch`|Equivalent to `git fetch`|
